@@ -1,7 +1,7 @@
 import requests, bs4
 
 # Load in telegram bot data
-token = '5964357138:AAH5AIqsf5Xyou4Tqyhhe1qTheJae1somy0'
+token = '****' # redacted for privacy reasons
 url = f"https://api.telegram.org/bot{token}"
 
 # Load HTML from website
